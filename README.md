@@ -1,5 +1,11 @@
 # AI-Powered Candidate Ranking System
 
+## Architecture Diagram
+
+
+<img width="1536" height="1024" alt="Candidate Ranking System Architecture" src="https://github.com/user-attachments/assets/228fc5f6-23ff-45fe-8dc0-8a03cebd6fe7" />
+ 
+
 ## Overview
 
 Recruiters often review thousands of candidate profiles for a single job opening. Traditional Applicant Tracking Systems (ATS) rely heavily on keyword matching, which can overlook highly qualified candidates whose profiles do not exactly match the job description.
