@@ -9,10 +9,20 @@
 ## Key Highlights
 
 ✅ Processed 100,000 candidate profiles
+
+
 ✅ Recruiter-inspired scoring engine
+
+
 ✅ Semantic similarity using Sentence Transformers
+
+
 ✅ Skill match prototype
+
+
 ✅ Hybrid ranking framework
+
+
 ✅ Submission-ready ranked_candidates_hybrid.csv
  
 
