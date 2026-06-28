@@ -4,6 +4,16 @@
 
 
 <img width="1536" height="1024" alt="Candidate Ranking System Architecture" src="https://github.com/user-attachments/assets/228fc5f6-23ff-45fe-8dc0-8a03cebd6fe7" />
+
+
+## Key Highlights
+
+✅ Processed 100,000 candidate profiles
+✅ Recruiter-inspired scoring engine
+✅ Semantic similarity using Sentence Transformers
+✅ Skill match prototype
+✅ Hybrid ranking framework
+✅ Submission-ready ranked_candidates_hybrid.csv
  
 
 ## Overview
